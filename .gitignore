@@ -1,0 +1,14 @@
+# Compilação e arquivos gerados
+**/target/
+**/.classpath
+**/.project
+**/.settings/
+**/.idea/
+**/*.iml
+**/.DS_Store
+.vscode/
+# Arquivos locais / credenciais
+**/.env
+**/application-local.properties
+**/application-secret.properties
+**/*.log
